@@ -5,21 +5,24 @@
 👀 I’m a digital marketing expert with a passion for psychology
 
 ## Skills 🤓
-#### Version Control
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+#### Marketing Tools
+<img alt="Responsys" src="https://img.shields.io/badge/Responsys-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img alt="PeopleCloud" src="https://img.shields.io/badge/PeopleCloud-007ACC?style=for-the-badge"/> <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/> <img alt="Iterable" src="https://img.shields.io/badge/Iterable-7324A9?style=for-the-badge"/> <img alt="MailChimp" src="https://img.shields.io/badge/MailChimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black"/>
 
 #### Scripting
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Freemarker" src="https://img.shields.io/badge/freemarker-326CAC?style=for-the-badge&logo=apachefreemarker&logoColor=white"/>
+<img alt="Freemarker" src="https://img.shields.io/badge/freemarker-326CAC?style=for-the-badge&logo=apachefreemarker&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
 
 #### Frontend
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 #### APIs
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img alt="REST" src="https://img.shields.io/badge/REST-000000?style=for-the-badge"/>
+<img alt="SOAP" src="https://img.shields.io/badge/SOAP-F7DF1E?style=for-the-badge"/> <img alt="REST" src="https://img.shields.io/badge/REST-000000?style=for-the-badge"/>
 
 #### Infrastructure
-<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="Oracle" src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img alt="Oracle" src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+
+#### Version Control
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 <!---
 madberns/madberns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
