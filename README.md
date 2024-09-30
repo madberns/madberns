@@ -1,6 +1,7 @@
 ![Header banner for madberns](https://github.com/madberns/madberns/blob/main/github_noggin_4.jpg)
 
-- 👋 Hi, I’m Madisyn
+<h1 align='center' style='"border-bottom:0px"'> Hi :wave: I'm Madisyn. 🌻:</h1>
+
 - 👀 I’m a digital marketing expert with a passion for psychology
 
 <!---
