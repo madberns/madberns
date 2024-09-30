@@ -8,6 +8,9 @@
 #### Marketing Tools
 <img alt="Responsys" src="https://img.shields.io/badge/Responsys-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img alt="PeopleCloud" src="https://img.shields.io/badge/PeopleCloud-007ACC?style=for-the-badge"/> <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/> <img alt="Iterable" src="https://img.shields.io/badge/Iterable-7324A9?style=for-the-badge"/> <img alt="MailChimp" src="https://img.shields.io/badge/MailChimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black"/> <img alt="SQL" src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"/>
 
+#### Project Management
+<img alt="Wrike" src="https://img.shields.io/badge/Wrike-83B81A?style=for-the-badge&logo=wrike&logoColor=white"/> <img alt="Asana" src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/> <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <img alt="Miro" src="https://img.shields.io/badge/Miro-#ECD53F?style=for-the-badge&logo=Jira&logoColor=black"/> 
+
 #### Frontend
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
