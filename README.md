@@ -1,3 +1,5 @@
+![Header banner for madberns](https://github.com/madberns/madberns/blob/main/github_noggin_4.jpg)
+
 - 👋 Hi, I’m Madisyn
 - 👀 I’m interested in digital marketing & psychology
 
