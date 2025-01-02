@@ -4,7 +4,7 @@
 
 👀 I’m a digital marketing expert with a passion for psychology
 
-## Skills 🤓
+## Professional Skills 🤓
 #### Marketing Tools
 <img alt="Responsys" src="https://img.shields.io/badge/Responsys-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img alt="PeopleCloud" src="https://img.shields.io/badge/PeopleCloud-007ACC?style=for-the-badge"/> <img alt="HubSpot" src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/> <img alt="Iterable" src="https://img.shields.io/badge/Iterable-7324A9?style=for-the-badge"/> <img alt="MailChimp" src="https://img.shields.io/badge/MailChimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black"/> <img alt="SQL" src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"/>
 
