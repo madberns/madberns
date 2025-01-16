@@ -2,7 +2,7 @@
 <img src="https://github.com/madberns/madberns/blob/main/github_noggin_4.jpg" alt="Header banner for madberns" height="400">
 <h1 align='center' style='"border-bottom:0px"'> Hi 👋 I'm Madisyn 🌻</h1>
 
-👀 I’m a digital marketing expert with a passion for psychology
+👀 I’m a digital marketing professional with a passion for psychology and creative problem-solving. Check out my pinned project for a snapshot of what I’m working on, and I’ll be adding more soon - stay tuned for updates. 
 
 ## Professional Skills 🤓
 #### Marketing Tools
